@@ -1,3 +1,6 @@
 [submodule "ch2/MeloTTS"]
 	path = ch2/MeloTTS
 	url = https://github.com/myshell-ai/MeloTTS.git
+[submodule "ch4/c/muFFT"]
+	path = ch4/c/muFFT
+	url = https://github.com/Themaister/muFFT.git
