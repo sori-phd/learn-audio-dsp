@@ -4,3 +4,9 @@
 [submodule "ch4/c/muFFT"]
 	path = ch4/c/muFFT
 	url = https://github.com/Themaister/muFFT.git
+[submodule "ch5/c/src"]
+	path = ch5/c/src
+	url = https://webrtc.googlesource.com/src
+[submodule "ch5/c/abseil-cpp"]
+	path = ch5/c/abseil-cpp
+	url = https://github.com/abseil/abseil-cpp.git
